@@ -25,5 +25,15 @@ export const styles = StyleSheet.create({
         textAlign: 'center',
         color: '#FFFFFF',
         fontWeight: '500'
+    },
+    perfis: {
+        height: 80,
+        width: 80
+    },
+    perfil: {
+        width: '100%',
+        flexDirection: 'row',
+        justifyContent: 'space-evenly',
+        marginTop: 20
     }
 })
