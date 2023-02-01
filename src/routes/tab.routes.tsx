@@ -15,6 +15,7 @@ export function TabRoutes() {
                 tabBarStyle: {
                     height: 80,
                     backgroundColor: '#121214',
+                    borderTopWidth: 2,
                 }
             }}
         >
