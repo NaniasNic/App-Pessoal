@@ -20,7 +20,9 @@ export function About() {
       </Text>
 
       <Text style={styles.sub}>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis consequuntur dolores rerum sequi hic voluptatibus enim, quae voluptates repellendus, necessitatibus corporis minus nam itaque! Doloribus quae in id autem officiis.
+        Sou Desenvolvedor Front-end em busca de conhecimento e melhorias nas minhas habilidades,
+        atualmente trabalho como Freelancer, sou certificado pelo curso da Start(LATAM) e estudo
+        de forma autônoma.
       </Text>
 
       <View style={styles.perfil}>
